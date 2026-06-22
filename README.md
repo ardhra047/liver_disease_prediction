@@ -46,15 +46,29 @@ Evaluated using:
 - Reason: Best performance 
 
 ### 🔟 Results
-- Accuracy: **71%**
-- Recall: **100%**
-- F1 Score: **83%**
+The model achieved 100% recall, making it highly effective for identifying liver disease cases without missing critical patients.
 
-### 1️⃣1️⃣ Deployment (Optional)
-- Can be deployed as:
-  - Web App (Flask / Streamlit)
-  - Clinical Decision Support Tool
+🛠️ Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
----
+📁 Project Structure
+liver-disease-prediction/
+│
+├── data/
+├── notebooks/
+├── images/
+├── README.md
+
+🚀 Future Improvements
+Deploy as a web app using Streamlit
+Add more advanced models (XGBoost, Neural Networks)
+Improve accuracy while maintaining high recall
+
+👨‍💻 Author
+Ardhra k
 
 
